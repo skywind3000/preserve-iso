@@ -29,9 +29,7 @@
 
 ## Credit
 
-欢迎访问兄弟项目：
-
-- [绝版游戏保护工程](https://github.com/skywind3000/preserve-cd)
+- 兄弟项目：[绝版游戏保护工程](https://github.com/skywind3000/preserve-cd)
 
 
 
