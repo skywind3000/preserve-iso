@@ -25,6 +25,7 @@
 
 光碟下载：
 
+- 谷歌：[BORLAND.iso](https://drive.google.com/file/d/1JFGWunOAQRrLp4LBBOdQhE2G4WcMOJwS/view?usp=sharing)
 - 度盘：地址 `s/159NZDyQTxKln5LRYYZQMQQ`，口令 `xg5z`
 
 ## Credit
