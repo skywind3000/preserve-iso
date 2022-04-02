@@ -27,7 +27,7 @@
 
 - 谷歌：[BORLAND.iso](https://drive.google.com/file/d/1B60qf28kRGzXh5Ad1jYIL1j8Pyb6Mwmg/view?usp=sharing)
 - 度盘：地址 `s/159NZDyQTxKln5LRYYZQMQQ`，口令 `xg5z`
-- 115：地址 `s/swn935d3ze9`，口令 `rdf9`
+- 115：地址 `s/swn1qwp3ze9`，口令 `8866`
 
 ## Credit
 
