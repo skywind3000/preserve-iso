@@ -29,6 +29,22 @@
 - 度盘：地址 `s/159NZDyQTxKln5LRYYZQMQQ`，口令 `xg5z`
 - 115：地址 `s/swn1qwp3ze9`，口令 `8866`
 
+### CD-2：SharpDevelop
+
+SharpDevelop 是 .Net Framework 时代最受欢迎的轻量级 IDE，它代替庞大的 Visual Studio使用 C# / VB.Net 开发各种 .Net Framwork 4.5 之前的程序（WinForm，控制台，WPF，组件程序），而本身大小却只有 20MB，并且免费开源，深受大家喜欢。
+
+本光盘包含了 SharpDevelop IDE 本身和多个版本的 .Net Framework 运行时环境，以及相关配套资源，当你想开发一两个小工具和轻量级的桌面应用时，无需下载安装庞大的 Visual Studio，小巧的 SharpDevelop 就能帮你迅速搞定。
+
+光盘介绍：
+
+- [CD2 光盘介绍](doc/preserve-iso-2.pdf)
+
+光盘下载：
+
+- [谷歌](https://drive.google.com/drive/folders/1jhmh7IskvdwrNkKF-2yOnXLQLJw9dT0o?usp=sharing)
+
+
+
 ## Credit
 
 - 兄弟项目：[绝版游戏保护工程](https://github.com/skywind3000/preserve-cd)
