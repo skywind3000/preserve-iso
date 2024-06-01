@@ -42,7 +42,7 @@ SharpDevelop 是 .Net Framework 时代最受欢迎的轻量级 IDE，它代替�
 光盘下载：
 
 - 谷歌：[SharpDevelop](https://drive.google.com/drive/folders/1jhmh7IskvdwrNkKF-2yOnXLQLJw9dT0o?usp=sharing)
-
+- 度盘：地址 `s/1XKChe9EgO2RBFoT4I3zQmA`，口令 `x9gi`
 
 
 ## Credit
