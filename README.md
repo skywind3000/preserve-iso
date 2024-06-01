@@ -37,7 +37,7 @@ SharpDevelop 是 .Net Framework 时代最受欢迎的轻量级 IDE，它代替�
 
 光盘介绍：
 
-- [CD2 光盘介绍](doc/preserve-iso-2.pdf)
+- [CD2 光盘介绍](docs/preserve-iso-2.pdf)
 
 光盘下载：
 
