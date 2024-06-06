@@ -28,6 +28,7 @@
 - 谷歌：[BORLAND](https://drive.google.com/drive/folders/1mkyO-8Pzjiw1MbY6j_nFn0goJsJ0kN0k?usp=sharing)
 - 度盘：地址 `s/159NZDyQTxKln5LRYYZQMQQ`，口令 `xg5z`
 - 115：地址 `s/swn1qwp3ze9`，口令 `8866`
+- MD5SUM：7c9ebd919a0e97842bda5ee6c6c2c44d
 
 ## CD-2：SharpDevelop
 
@@ -43,6 +44,7 @@ SharpDevelop 是 .Net Framework 时代最受欢迎的轻量级 IDE，它代替�
 
 - 谷歌：[SharpDevelop](https://drive.google.com/drive/folders/1V9TQORJsWHolTdPb4PtICT8GmfJldheG?usp=sharing)
 - 度盘：地址 `s/1XKChe9EgO2RBFoT4I3zQmA`，口令 `x9gi`
+- MD5SUM：d0ebe30673b1012f025cb91a3bd182f4
 
 ## CD-3：FlashDevelop
 
@@ -58,7 +60,7 @@ SharpDevelop 是 .Net Framework 时代最受欢迎的轻量级 IDE，它代替�
 
 - 谷歌：[FlashDevelop](https://drive.google.com/drive/folders/16LtsaqRWMDJ3VKaDFaIWidKLZ2Z7cI5s?usp=sharing)
 - 度盘：地址 `s/1ChCHxiPiOTRwfO8JrSfalA`，口令 `z8ub`
-
+- MD5SUM：3fa0237828dbda10e34b0492555d2635
 
 
 ## Credit
