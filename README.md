@@ -13,7 +13,7 @@
 
 因此本类别主要用于收藏即将消失的开发工具。
 
-### CD-1：BORLAND 宝典
+## CD-1：BORLAND 宝典
 
 本光碟收录了 Borland 公司全胜时期的著名桌面开发工具：C++ Builder 6 和 Delphi 7，以及各种配套工具，书籍和资源，找的都是全网最好的版本（原版的 CD 安装文件）。别看这两款软件老，即便是今天，依然可以用他们做出交互尚可的桌面应用。
 
@@ -25,11 +25,11 @@
 
 光碟下载：
 
-- 谷歌：[BORLAND.iso](https://drive.google.com/file/d/1B60qf28kRGzXh5Ad1jYIL1j8Pyb6Mwmg/view?usp=sharing)
+- 谷歌：[BORLAND](https://drive.google.com/drive/folders/1mkyO-8Pzjiw1MbY6j_nFn0goJsJ0kN0k?usp=sharing)
 - 度盘：地址 `s/159NZDyQTxKln5LRYYZQMQQ`，口令 `xg5z`
 - 115：地址 `s/swn1qwp3ze9`，口令 `8866`
 
-### CD-2：SharpDevelop
+## CD-2：SharpDevelop
 
 SharpDevelop 是 .Net Framework 时代最受欢迎的轻量级 IDE，它代替庞大的 Visual Studio使用 C# / VB.Net 开发各种 .Net Framwork 4.5 之前的程序（WinForm，控制台，WPF，组件程序），而本身大小却只有 20MB，并且免费开源，深受大家喜欢。
 
@@ -41,8 +41,24 @@ SharpDevelop 是 .Net Framework 时代最受欢迎的轻量级 IDE，它代替�
 
 光盘下载：
 
-- 谷歌：[SharpDevelop](https://drive.google.com/drive/folders/1jhmh7IskvdwrNkKF-2yOnXLQLJw9dT0o?usp=sharing)
+- 谷歌：[SharpDevelop](https://drive.google.com/drive/folders/1V9TQORJsWHolTdPb4PtICT8GmfJldheG?usp=sharing)
 - 度盘：地址 `s/1XKChe9EgO2RBFoT4I3zQmA`，口令 `x9gi`
+
+## CD-3：FlashDevelop
+
+前段时间碰到个经典的 Flash 游戏想玩一下，发现原网站挂了而游戏又需要验证原网站，于是想对其稍加修改，才发现原来可以下载 Flash 相关开发工具的页面已经全停了，全被定向到一个 “Flash 已经退休” 的页面上去。
+
+也就是说今天年你已经无法从官方渠道再获得一套完整的 Flash 开发环境了，于是我想，趁着现在部分网络资源还未失效，以及我老电脑里还有一些资料，是时候对整套 Flash 开发环境进行一次整理和快照了，避免将来有一天想编译一下老项目出现尴尬。
+
+光盘介绍：
+
+- [CD3 光盘介绍](docs/preserve-iso-3.pdf)
+
+光盘下载：
+
+- 谷歌：[FlashDevelop](https://drive.google.com/drive/folders/16LtsaqRWMDJ3VKaDFaIWidKLZ2Z7cI5s?usp=sharing)
+
+
 
 
 ## Credit
