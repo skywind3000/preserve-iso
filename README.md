@@ -64,6 +64,20 @@ SharpDevelop 是 .Net Framework 时代最受欢迎的轻量级 IDE，它代替�
 - 115：地址 `s/swzra4b3ze9`，口令 `8866`
 - MD5SUM：3fa0237828dbda10e34b0492555d2635
 
+## CD-4：WindowsXP 开发套件
+
+Windows XP 依然是一个完美的怀旧平台，它可以向后兼容到 Windows 95 的程序，是一个运行经典软件，玩经典游戏的完美方案。本光盘包含了构建 Windows XP 程序所需要的必要工具，包括编译器，文本编辑器，集成开发环境和各种工具，他们全都能运行于 XP 下，并且能构建兼容 Windows XP 的项目。
+
+光盘介绍：
+
+- [CD4 光盘介绍](doc/preserve-iso-4.pdf)
+
+光盘下载：
+
+- 谷歌：[WindowsXP-Devkit](https://drive.google.com/drive/folders/1yJ8otnpKMhbrDmNUei0_WFGbNaeU6Yea?usp=drive_link)
+- 度盘：地址 `s/1fWWskQYbbk0Eemp3eSFU2Q`，口令 `z8gd`
+
+
 
 ## Credit
 
