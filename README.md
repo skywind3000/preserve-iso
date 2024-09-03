@@ -70,7 +70,7 @@ Windows XP 依然是一个完美的怀旧平台，它可以向后兼容到 Windo
 
 光盘介绍：
 
-- [CD4 光盘介绍](doc/preserve-iso-4.pdf)
+- [CD4 光盘介绍](docs/preserve-iso-4.pdf)
 
 光盘下载：
 
