@@ -77,7 +77,7 @@ Windows XP 依然是一个完美的怀旧平台，它可以向后兼容到 Windo
 - 谷歌：[WindowsXP-Devkit](https://drive.google.com/drive/folders/1yJ8otnpKMhbrDmNUei0_WFGbNaeU6Yea?usp=drive_link)
 - 度盘：地址 `s/1fWWskQYbbk0Eemp3eSFU2Q`，口令 `z8gd`
 - 115：地址 `s/swh3bpl3ze9`，口令 `8866`
-- MD5SUM：d903a637dc4bdea3f4026aa1bbf2cd12
+- MD5SUM：fcdd640440bfbf0304338a8c70d7bea4
 
 
 
