@@ -83,7 +83,13 @@ Windows XP 依然是一个完美的怀旧平台，它可以向后兼容到 Windo
 
 ## Credit
 
-- 兄弟项目：[绝版游戏保护工程](https://github.com/skywind3000/preserve-cd)
+欢迎关注：
+
+- 我的博客：https://skywind.me/blog
+- 个人推特：https://x.com/skywind3000
+
+以及兄弟项目《[绝版游戏保护工程](https://github.com/skywind3000/preserve-cd)》
+
 
 
 
